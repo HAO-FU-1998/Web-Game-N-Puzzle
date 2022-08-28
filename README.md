@@ -1,2 +1,7 @@
-# Web-Game-N-Puzzle
- Web Development (2018)
+# Web Game：N-Puzzle
+## Tianjin University
+### Hao Fu
+#### 3016218083@tju.edu.cn
+![image](1.png)
+![image](2.png)
+![image](3.png)
